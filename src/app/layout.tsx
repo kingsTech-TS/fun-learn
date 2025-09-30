@@ -14,7 +14,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "EduLearn - Transform Books into Interactive Learning",
+  title: "FunLearn - Transform Books into Interactive Learning",
   description:
     "Upload books and transform them into summaries, quizzes, games, and audio content for enhanced learning.",
     generator: 'kingsTech'

@@ -24,7 +24,7 @@ export function Navigation() {
             className="flex items-center space-x-2 group transition-transform duration-200 hover:scale-105"
           >
             <BookOpen className="h-8 w-8 text-primary transition-colors duration-200 group-hover:text-purple-400" />
-            <span className="text-xl font-bold text-foreground">EduLearn</span>
+            <span className="text-xl font-bold text-foreground">Fun-Learn</span>
           </Link>
 
           <div className="flex items-center space-x-1">
